@@ -52,3 +52,8 @@ brew install awscli
 ## Examples
 
 [Here](tf-examples) are the Terraform examples.
+
+## External Links
+
+[AWS Samples](https://github.com/aws-samples)
+[aws-serverless-airline-booking](https://github.com/aws-samples/aws-serverless-airline-booking)
