@@ -2,4 +2,8 @@
 
 Use packer to build custom images (AMI) and terraform to deploy them.
 
-Sample applications can be found [here](sample-apps)
+## Samples
+
+Here are different sample applications packaged using packer.
+
+1. Deploy a go web-app [example](learn-terraform-provisioning-packer)
