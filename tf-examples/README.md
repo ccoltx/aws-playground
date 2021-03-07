@@ -4,6 +4,7 @@ Here are different terraform examples
 
 1. Create a simple ec2 instance with no application [here](aws-ec2-instance)
 2. Create an ec2 instance with an application using packer [here](aws-packer-ami)
+3. Setup an EKS cluster [here](aws-eks)
 
 ## Terraform basics
 
